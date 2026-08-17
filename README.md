@@ -4,7 +4,7 @@
 
 🌐 **Live Demo:** https://abrvion.github.io/Sushiya-Project/
 
-<p><img src="Screenshot 2026-08-17 183437.png" alt="site screanshot"></p>
+<p><img src="Screenshot 2026-08-17 183437.png" alt="site screanshot" width="500"></p>
 
  ✨ Overview
 
